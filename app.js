@@ -57,3 +57,12 @@ function Square(num6){
 }
 Square()
 
+var a = 2
+var b = 2 
+var c;
+
+function avg() {
+    c = a+b/2
+    return c
+}
+avg() 
